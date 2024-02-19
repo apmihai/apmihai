@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apmihai
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python/javascript
+- 🌱 I’m currently learning python/powershell
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
